@@ -4,7 +4,7 @@ export const profile = {
   location: "Bengaluru, India",
   email: "b.kalyaanakrishnan@gmail.com",
   github: "https://github.com/10kalyaan",
-  linkedin: "https://linkedin.com/in/kalyaan",
+  linkedin: "https://www.linkedin.com/in/kalyaanakrishnan-b-097143372/",
   headline:
     "Backend and AI systems engineer building agentic tools, APIs, and automation workflows.",
   summary:
